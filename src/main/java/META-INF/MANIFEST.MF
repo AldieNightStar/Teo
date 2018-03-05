@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: Dice.jar
+Main-Class: com.fox.TEO.Main
+
