@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="TEO:jar">
+    <output-path>$PROJECT_DIR$/HOME/bin</output-path>
+    <root id="root">
+      <element id="archive" name="TEO.jar">
+        <element id="module-output" name="TEO" />
+        <element id="directory" name="META-INF">
+          <element id="dir-copy" path="$PROJECT_DIR$/src/main/java/META-INF" />
+        </element>
+      </element>
+      <element id="library" level="project" name="Dice" />
+    </root>
+  </artifact>
+</component>
